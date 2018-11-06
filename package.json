@@ -1,0 +1,16 @@
+{
+  "name": "very-basic-node-express-example",
+  "version": "1.0.0",
+  "description": "A very basic example of how to use Node.js with Express as a webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "imjosh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
